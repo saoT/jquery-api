@@ -8,7 +8,7 @@ Ici nous allons utiliser "http://hp-api.herokuapp.com/api/characters".
 
 
 ````
-$.get()
+$.get(URL)
 .then(function (data) {
   // J'utilise data ici pour récupérer mes données
 });
